@@ -17,7 +17,7 @@ Run **npm install** to install the dependencies. Then, start the project:
 ```
 npm run dev
 ```
-You can test the API using Insomnia or Postman, or run the web project available in the repository "nlw-return-web" and test enough UI
+You can test the API using Insomnia or Postman, or run the web project available in the repository "nlw-return-web" and test through UI
 
 ## 📑 License
 This project is under the MIT License.
